@@ -134,4 +134,22 @@ Recursion & Backtracking
  TImed Problems
  no internt initially 
  Dry runns 7 edge cases
+
+
+
+
+
+
  
+
+Redesigning Evaluations
+Why this approach
+why not brute force
+what are edge cases
+evaluate studnet on timely 
+
+DSA is not a subject 
+it is skill
+
+ 
+Revission
