@@ -31,3 +31,25 @@ minimum path finding
 No of island
 Baleman ford
 Minimum weight path
+
+Dynamic Programing
+Problem-brust force - recursion-sliding window-BS-Greedy Algorithm
+
+Problem
+1. 0-1 Knapsack (7)
+2. Unbounded Knapsack (5)
+3. Fibbonacci (7)
+4. LCS longest common subsequence (10)
+5. Kadance's Algo (6)
+6. LIS (10)
+
+7. Matrics chain Multiplication (5-7)
+8. DP on tree
+Dp on grid
+
+
+Tabulation 
+BAse condition-> imitatizing step for array
+
+Recursive -> 
+
