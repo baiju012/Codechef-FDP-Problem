@@ -1,1 +1,9 @@
+1. Close the broken Terminal
 
+Press Enter or close that window.
+
+Then open Command Prompt as Administrator:
+
+Win + R → type cmd → Ctrl + Shift + Enter → Yes
+
+Do not open PowerShell.
