@@ -1,0 +1,52 @@
+// // Online C compiler to run C program online
+// #include <stdio.h>
+
+// int main() {
+//     // Write C code here
+//     int a;
+//     int b;
+//     printf("Enter age first ");
+//     scanf("%d",&a);
+//     printf("Enter age second ");
+//     scanf("%d",&b);
+//     printf("your enter age is %d\n", a);
+//     printf("your enter age is %d\n", b);
+//     printf("your sum age is %d\n", b+a);
+//     // scanf("%d",&b);
+
+//     return 0;
+// }
+
+#include <stdio.h>
+
+int main() {
+    int x = 5;
+    int y;
+
+    // Post-increment: value used first, then increased
+    y = x++;
+    printf("Post-increment:\n");
+    printf("x = %d, y = %d\n", x, y);
+
+    // Reset x
+    x = 5;
+
+    // Pre-increment: value increased first, then used
+    y = ++x;
+    printf("\nPre-increment:\n");
+    printf("x = %d, y = %d\n", x, y);
+
+    // Post-decrement: value used first, then decreased
+    x = 5;
+    y = x--;
+    printf("\nPost-decrement:\n");
+    printf("x = %d, y = %d\n", x, y);
+
+    // Pre-decrement: value decreased first, then used
+    x = 5;
+    y = --x;
+    printf("\nPre-decrement:\n");
+    printf("x = %d, y = %d\n", x, y);
+
+    return 0;
+}
